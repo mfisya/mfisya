@@ -1,5 +1,4 @@
 
-![](./assets/dev1.jpg)
 
 
 
