@@ -4,7 +4,7 @@
 
 ## 👋 Hey there!
 ## IM ISYA
-I work in DevOps—mostly dealing with CI/CD pipelines, automation, and keeping the infrastructure happy. I like building clean workflows so devs can focus on coding without worrying about deployments. Sometimes I’m in the cloud, sometimes buried in logs—whatever it takes to keep things running smoothly and reliably.
+I work in DevOps—mostly dealing with CI/CD pipelines, automation, and keeping the infrastructure high availbility. I like building clean workflows so devs can focus on coding without worrying about deployments. 
 
 In my spare time, I also teach at a bootcamp, helping aspiring engineers dive into the world of DevOps and cloud technologies.
 
