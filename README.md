@@ -34,5 +34,4 @@ In my spare time, I also teach at a bootcamp, helping aspiring engineers dive in
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-1C1C1C?style=for-the-badge&logo=owasp&logoColor=white" />
 </p>
